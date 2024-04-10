@@ -1,6 +1,6 @@
 # Hi there 
 
-I'm Iona Iobidze, a Computer Science student at Kutaisi International University. I'm passionate about programming and have advanced skills in OCaml, Python, and Java.
+I'm Iona Iobidze, a Computer Science student at Kutaisi International University. I'm passionate about programming and have advanced skills in Java, Python, OCaml, Arduino.
 
 ## About Me
 
