@@ -12,3 +12,4 @@ I'm Iona Iobidze, a Computer Science student at Kutaisi International University
 - Python
 - Java
 - OCaml
+- Arduino
