@@ -18,6 +18,6 @@ I'm Iona Iobidze, a Computer Science student at Kutaisi International University
 
 ## Awards
 
-- Leader of the first prize-winning team of Leonardo da Vinci's competition (2017) [Article](https://edu.aris.ge/news/qutaiseli-moswavleebis-gamogoneba-mushaobas-usafrtxos-gaxdis-ra-aris-mandzilis-mzomi-roboti.html)
-- Member of the first prize-winning team of the Millennium Innovations Award (2019) [Article](https://georgiaembassyusa.org/2019/06/28/young-georgian-inventors-to-travel-to-nasa/)
-- Leader of the chat bot hackathon winning team (2021)[ChatBot](https://www.animachatbotics.com/chatbot/Chat/3673)
+- Leader of the first prize-winning team of Leonardo da Vinci's competition (2017) - [Article](https://edu.aris.ge/news/qutaiseli-moswavleebis-gamogoneba-mushaobas-usafrtxos-gaxdis-ra-aris-mandzilis-mzomi-roboti.html)
+- Member of the first prize-winning team of the Millennium Innovations Award (2019) - [Article](https://georgiaembassyusa.org/2019/06/28/young-georgian-inventors-to-travel-to-nasa/)
+- Leader of the chatbot hackathon winning team (2021) - [ChatBot](https://www.animachatbotics.com/chatbot/Chat/3673)
