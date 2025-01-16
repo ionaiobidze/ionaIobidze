@@ -3,6 +3,8 @@ I'm Iona Iobidze, a Computer Science student at Kutaisi International University
 
 ## About Me
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 ![react](https://img.shields.io/badge/react-282c34?style=for-the-badge&logo=react&logoColor=61dafb)
