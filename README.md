@@ -1,5 +1,5 @@
 # Hi there
-I'm Iona Iobidze, a Computer Science student at Kutaisi International University. I'm passionate about programming and have advanced skills in Java, Python, OCaml, Arduino.
+I'm Iona Iobidze, a Computer Science student at Kutaisi International University.
 
 ## About Me
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +19,9 @@ I'm Iona Iobidze, a Computer Science student at Kutaisi International University
 - I love coding and have worked on several projects.
 
 ## Awards
-
-- Leader of the first prize-winning team of Leonardo da Vinci's competition (2017) - [Article](https://edu.aris.ge/news/qutaiseli-moswavleebis-gamogoneba-mushaobas-usafrtxos-gaxdis-ra-aris-mandzilis-mzomi-roboti.html)
-- Member of the first prize-winning team of the Millennium Innovations Award (2019) - [Article](https://georgiaembassyusa.org/2019/06/28/young-georgian-inventors-to-travel-to-nasa/)
+- Member of the Cybersecurity AI Hackathon winning team (2024)
+- The U.S. Department of state scholarship winner - FLEX (2021)
 - Leader of the chatbot hackathon winning team (2021) - [ChatBot](https://www.animachatbotics.com/chatbot/Chat/3673)
+- Member of the first prize-winning team of the Millennium Innovations Award (2019) - [Article](https://georgiaembassyusa.org/2019/06/28/young-georgian-inventors-to-travel-to-nasa/)
+- Leader of the first prize-winning team of Leonardo da Vinci's competition (2017) - [Article](https://edu.aris.ge/news/qutaiseli-moswavleebis-gamogoneba-mushaobas-usafrtxos-gaxdis-ra-aris-mandzilis-mzomi-roboti.html)
+
