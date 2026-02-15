@@ -1,5 +1,5 @@
 # Hi there
-I'm Iona Iobidze, a Computer Science student at Kutaisi International University.
+I'm Iona Iobidze.
 
 ## About Me
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
